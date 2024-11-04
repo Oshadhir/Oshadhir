@@ -1,14 +1,44 @@
-//![github](https://user-images.githubusercontent.com/31445077/87033150-57166f80-c203-11ea-990c-71a1e0d34ff4.png)
-### 👋 Hi there 
-I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
+@@ -1,38 +1,38 @@
 
 
-- 🔭 I’m currently working on ReactJS, Nodejs devOps, DataBase Modeling and flutter.
-- 🍔 Founder TasteBuds.
-- ⚡ Currently Working as a Technical Consultant Intern at PropylonOne.
-- 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
+<img src="[/Users/oshadhirajakaruna/Desktop/PersonalProjects/JustinScitech-main/readme1.jpg](https://drive.google.com/file/d/1XpHv6msO1XtX59SMw7NfjWwPR-DuwGHE/view?usp=sharing)" alt="GIRL" width="100" height="100" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hello+I'm+Oshadhi+Rajakaruna!)](https://git.io/typing-svg)
+<img src="[[/Users/oshadhirajakaruna/Desktop/PersonalProjects/JustinScitech-main/readme1.jpg](https://drive.google.com/file/d/1XpHv6msO1XtX59SMw7NfjWwPR-DuwGHE/view?usp=sharing)](https://drive.google.com/file/d/1FYH_V8Wb3JQrLTI-NwsQ4hBy4z8HE9WG/view?usp=drive_link)" alt="GIRL" width="100" height="100" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hello+I'm+Oshadhi+Rajakaruna!)](https://git.io/typing-svg)
 
-<hr />
+
+
+```python
+class ComputerEngineer:
+
+    def __init__(self):
+        self.name = "Oshadhi Rajakaruna"
+        self.education = "University of Westminster"
+        self.location = "Sri Lanka"
+        self.role = {
+            "current": "Motion Graphics Designer @ Sync Agency",
+        }
+
+    def moreInfo(self):
+        aboutMe = {
+            "currentFocus" : ["Building a Roblox developer networking platform"],
+            "languages" : ["Python", "Java", "Javascript","Dart"],
+            "technologies" : {
+                "web" : ["React", "JavaScript", "Express.js", "Node.js", "HTML/CSS", "ASP.NET Core", "three.js"],
+                "mobile" : ["flutter"],
+                "cloud" : ["AWS"],
+                "databases" : ["MySQL", "MongoDB", "Firebase"],
+                "misc" : ["Firebase", "Figma", "Postman", "Vercel", "Netlify", "Git"]
+            }
+        }
+        print(aboutMe)
+
+    def say_hi(self):
+        print("Contact me through my personal website for any inquiries or requests!")
+```
+
+<img src="https://drive.google.com/file/d/1FYH_V8Wb3JQrLTI-NwsQ4hBy4z8HE9WG/view?usp=sharing" alt="girl Technologist Light Skin Tone" width="100" height="100" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Click+the+link+below!)](https://git.io/typing-svg)
+
+<a href="https://www.jlau.tech">Learn more about me </a>
+<a href="[google.com](https://www.linkedin.com/in/oshadhi-rajakaruna/)">Learn more about me </a>
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
