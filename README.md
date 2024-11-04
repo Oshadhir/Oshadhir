@@ -1,5 +1,3 @@
-@@ -1,38 +1,38 @@
-
 
 <img src="[/Users/oshadhirajakaruna/Desktop/PersonalProjects/JustinScitech-main/readme1.jpg](https://drive.google.com/file/d/1XpHv6msO1XtX59SMw7NfjWwPR-DuwGHE/view?usp=sharing)" alt="GIRL" width="100" height="100" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hello+I'm+Oshadhi+Rajakaruna!)](https://git.io/typing-svg)
 <img src="[[/Users/oshadhirajakaruna/Desktop/PersonalProjects/JustinScitech-main/readme1.jpg](https://drive.google.com/file/d/1XpHv6msO1XtX59SMw7NfjWwPR-DuwGHE/view?usp=sharing)](https://drive.google.com/file/d/1FYH_V8Wb3JQrLTI-NwsQ4hBy4z8HE9WG/view?usp=drive_link)" alt="GIRL" width="100" height="100" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hello+I'm+Oshadhi+Rajakaruna!)](https://git.io/typing-svg)
