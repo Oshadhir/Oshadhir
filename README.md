@@ -1,47 +1,21 @@
-# 🚀 about me
+//![github](https://user-images.githubusercontent.com/31445077/87033150-57166f80-c203-11ea-990c-71a1e0d34ff4.png)
+### 👋 Hi there 
+I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
 
-- 🤔 Carpe Diem
-- 💬 Sot the lot of you.I do what I like~
-- 📫 holic-x@foxmail.com
-- 🚀个人博客：😎Java全栈学习[知识体系](https://noob.holic-x.com/)、🥚博客原始版 [一人の境](https://blog.holic-x.com/)
-- 🌏社交网站：[掘金🏑](https://juejin.cn/user/2559318802054568)、[CSDN💬](https://blog.csdn.net/weixin_40376256)
 
-# 🎫 projects
-- 项目开发
-  
-  - [✨博客魔改手把手教学](http://localhost:8080/md/6.project/repo/myBlog/)
-  
-  - 🎈智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
-    - [基于Vite构建的通知公告系统SDK](https://github.com/holic-x/itc-notification-sdk)
-    - [Da-API接口调用](https://github.com/holic-x/api-platform)
-    - [OJ模块（模拟沙箱）](https://github.com/holic-x/oj-platform)
-    - [智能BI交互](https://github.com/holic-x/bi-platform)
-    - [聚合搜索](https://github.com/holic-x/search-platform)
-  - 🛸基于Springboot-React构建的项目快速开发模板：[springboot-react-init](https://github.com/holic-x/springboot-react-init)（原后端模板基础版、进阶版）
-  
-- 基础组件开发（框架篇）
-  - [✨异步调度框架](https://github.com/holic-x/asyncflow-platform)
-  - [🍚定时微服务框架](https://github.com/holic-x/xtimer-platform)
-  - [🪂轻量级RPC框架（基于Vert.x+Etcd）](https://github.com/holic-x/noob-rpc)
-  - [🎑基于Vite构建的自定义公告SDK组件](https://github.com/holic-x/itc-notification-sdk)
-  - [🎃Hexo魔改之自定义Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
-  
-- 技术栈扩展学习
+- 🔭 I’m currently working on ReactJS, Nodejs devOps, DataBase Modeling and flutter.
+- 🍔 Founder TasteBuds.
+- ⚡ Currently Working as a Technical Consultant Intern at PropylonOne.
+- 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
 
-  - [🧨DDD-luckydraw（营销场景抽奖活动）](http://localhost:8080/md/6.project/specPro/04-luckydraw-ddd/)
-  - [🧨基于Springboot-ES构建博客检索系统](https://github.com/holic-x/springboot-es)
-  - [🧨基于Springboot+Vue+MongoDB的仿电商应用](https://github.com/holic-x/MongoDB-WEB-DEMO)
-  - [🧨垃圾分类APP（安卓）](https://github.com/holic-x/garbage-classify)
-  - [🧨taotao-mall（淘淘商城）](http://localhost:8080/md/6.project/specPro/03-taotao-mall/)
-# 💻Recent Blog
+<hr />
 
-<!-- BLOG-POST-LIST:START -->
-- [博客订阅&amp;推送](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/30-%E7%BD%91%E7%AB%99%E8%BF%90%E7%BB%B4/3003-%E5%8D%9A%E5%AE%A2%E8%AE%A2%E9%98%85_%E6%8E%A8%E9%80%81.html)
-- [常见Git操作&amp;日常问题](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/80-BUG%E9%9B%86%E6%95%A3%E5%9C%B0/%E5%B8%B8%E8%A7%81Git%E6%93%8D%E4%BD%9C_%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98.html)
-- [开发问题记录册](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/80-BUG%E9%9B%86%E6%95%A3%E5%9C%B0/%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95%E5%86%8C.html)
-- [Maven的聚合和继承](https://noob.holic-x.com/md/4.PM/maven/3.Maven%E7%9A%84%E8%81%9A%E5%90%88%E5%92%8C%E7%BB%A7%E6%89%BF.html)
-- [Maven生命周期详解](https://noob.holic-x.com/md/4.PM/maven/2.Maven%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E8%AF%A6%E8%A7%A3.html)
-<!-- BLOG-POST-LIST:END -->
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
+### 📫 Reach me at 
+![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
 
 
 # 🛠 Tech Stack
