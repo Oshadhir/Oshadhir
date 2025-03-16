@@ -39,7 +39,7 @@ class ComputerEngineer:
 <a href="[google.com](https://www.linkedin.com/in/oshadhi-rajakaruna/)">Learn more about me </a>
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src=![Visitor Count](https://profile-counter.glitch.me/Oshadhir/count.svg)/>
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
