@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshadhi</h1>
-<h3 align="center">a Motion Graphics Designer turned developer with a passion for AI and data science.</h3>
+<h3 align="center">An aspiring developer with a passion for AI and data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshadhir&label=Profile%20views&color=0e75b6&style=flat" alt="oshadhir" /> </p>
 
